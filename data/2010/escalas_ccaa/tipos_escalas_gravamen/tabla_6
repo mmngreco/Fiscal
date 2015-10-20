@@ -1,0 +1,7 @@
+;"Base liquidable
+[Hasta euros]"; Cuota íntegra [euros];Resto base liquidable [Hasta euros];"Tipo aplicable
+[Porcentaje]"
+0;0,00;0,00;17.707,20;12,00
+1;17.707,20;2.124,86;15.300,00;14,00
+2;33.007,20;4.266,86;20.400,00;18,50
+3;53.407,20;8.040,86;En adelante;22,58

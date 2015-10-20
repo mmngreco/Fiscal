@@ -1,0 +1,8 @@
+;"Base liquidable del ahorro
+[Hasta euros]";"Incremento en Cuota íntegra estatal
+[euros]";"Resto base liquidable general
+[Hasta euros]";"Tipo aplicable
+[Porcentaje]"
+0;0,00;0,00;6.000,00;10,00
+1;6.000,00;600,00;44.000,00;11,00
+2;50.000,00;5.440,00;En adelante;12,00

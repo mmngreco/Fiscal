@@ -1,8 +1,0 @@
-;"Parte de la base liquidable
-[euros]";"Tipo aplicable
-[Porcentaje]"
-0;Hasta 2.500,00;20,00
-1;Desde 2.500,01 hasta 10.000,00;21,00
-2;Desde 10.000,01 hasta 15.000,00;22,00
-3;Desde 15.000,01 hasta 30.000,00;23,00
-4;Desde 30.000,01 en adelante;25,00

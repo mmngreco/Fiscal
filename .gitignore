@@ -1,8 +1,5 @@
 
 *.txt
-
 *.pdf
-
-dwork.csv
-data/dpob.csv
-data/data_pob.csv
+data/2010/dmuestra.csv
+data/2011/dmuestra.csv
