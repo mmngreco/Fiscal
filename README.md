@@ -2,17 +2,17 @@
 
 # Trabajo Fin de Grado
 
-## Título del trabajo : y subtítulo del trabajo
+## ANÁLISIS REGIONAL DEL IPRF : DESIGUALDAD Y PROGRESIVIDAD REGIONAL PARA ESPAÑA
 
 
-### Autor/es
+### Autor
 
 Maximiliano Greco
 
 
 
 
-### Director/es
+### Director
 
 Fernando Rodrigo Sauco
 
@@ -21,17 +21,17 @@ Fernando Rodrigo Sauco
 
 Facultad de Ciencias Económicas y Empresariales
 Año 2015
+
 ## NOTEBOOK
 [TFG]()
 
 ## PREGUNTAS
 
 1. Contexto del IRPF 2011
-1. ¿Cuál es el perfil del IRFP en España y CCAA?
+1. ¿Cuál es el perfil del IRPF en España y CCAA?
     + Distribucion de población, España y CCA
     + Distribucion de los ingresos CCAA
     + Distribucion de declarantes por renta
-1. ¿Existe Competencia fiscal entre comunidades autónomas?
     + Distribucion de declarantes por CCAA y tg
     + Diferencia entre Ingresos CCAA y Estatal
     + Disperción de Cuota Liquida autonómica y Rentas altas
@@ -43,12 +43,6 @@ Año 2015
         * Gini
         * RS
         * Atkinson
-1. ¿Está la competencia fiscal ayudando a aumentar la desigualdad en España? ¿Y en las CCAA?
-    + CCAA con bajos tg autonómicos vs CCAA con tg Autonómicos ~ tg Estatal
-        * Gini
-        * Lorentz
-        * RS
-        * Atkinson
 1. Caso de Aragón. (sería interesante agregar cataluña o madrid y comparar)
     + Perfil
     + Como se sitúa en presión fiscal
@@ -56,12 +50,13 @@ Año 2015
         * LP
         * Gini
         * RS
-1. ¿Han ayudado las últimas reformas del IRPF a reducir la desigualdad en España?
-    + ¿?
 1. Simulación
-    + ¿Qué cambios tendrá, en la desigualdad, aumentos en el tipo de gravamen de las rentas altas?
-    + ¿y reducciones en las rentas bajas?
+    + Hipótesis de partida evolución hasta 2016
+        * Evolución BI (PIB o Renta Disponible, media BI)
+
 1. Conclusiones
+1. Extensiones del Trabajo
+    + Competencia Fiscal
 
 ---
 
