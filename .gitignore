@@ -1,5 +1,7 @@
 
 *.txt
+
 *.pdf
-data/2010/dmuestra.csv
-data/2011/dmuestra.csv
+
+*.csv
+
