@@ -63,10 +63,12 @@ Año 2015
 
 # DISTRIBUCIÓN DE DECLARANTES POR CCAA
 ![](imgs/dist_2015-11-09_122758.png)
+
 La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que los tramos mas densos, son los medios, la distribución parece ser una normal.
 
 
 # CURVA DE LORENTZ
+
 ![](imgs/lorentz_ingresostrabajo_2015-11-09_122758.png)
 ![](imgs/lorentz_c731_2015-11-09_122758.png)
 ![](imgs/lorentz_c730_2015-11-09_122758.png)
@@ -74,7 +76,10 @@ La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que
 
 ## CURVA DE LORENTZ
 
-<iframe src="//giphy.com/embed/DXzihcl9gQERa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/DXzihcl9gQERa">via GIPHY</a></p>
+<div style="max-width: 500px;" id="_giphy_DXzihcl9gQERa"></div><script>var _giphy = _giphy || []; _giphy.push({id: "DXzihcl9gQERa",w: 360, h: 360});var g = document.createElement("script"); g.type = "text/javascript"; g.async = true;g.src = ("https:" == document.location.protocol ? "https://" : "http://") + "giphy.com/static/js/widgets/embed.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);</script>
+
+<iframe src="//giphy.com/embed/DXzihcl9gQERa?html5=true" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/DXzihcl9gQERa">via GIPHY</a></p>
+
 
 ![](imgs/lorentz_principales_2015-11-09_122758.png)
 
