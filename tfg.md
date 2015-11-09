@@ -76,9 +76,7 @@ La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que
 
 ## CURVA DE LORENTZ
 
-<div style="max-width: 500px;" id="_giphy_DXzihcl9gQERa"></div><script>var _giphy = _giphy || []; _giphy.push({id: "DXzihcl9gQERa",w: 360, h: 360});var g = document.createElement("script"); g.type = "text/javascript"; g.async = true;g.src = ("https:" == document.location.protocol ? "https://" : "http://") + "giphy.com/static/js/widgets/embed.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);</script>
-
-<iframe src="//giphy.com/embed/DXzihcl9gQERa?html5=true" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/DXzihcl9gQERa">via GIPHY</a></p>
+<div><iframe src="//giphy.com/embed/DXzihcl9gQERa?html5=true" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/DXzihcl9gQERa">via GIPHY</a></p></div>
 
 
 ![](imgs/lorentz_principales_2015-11-09_122758.png)
