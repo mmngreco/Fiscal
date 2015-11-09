@@ -11,8 +11,6 @@
 Maximiliano Greco
 
 
-
-
 ### Director
 
 Fernando Rodrigo Sauco
@@ -62,6 +60,7 @@ Año 2015
 ---
 
 # DISTRIBUCIÓN DE DECLARANTES POR CCAA
+
 ![](imgs/dist_2015-11-09_122758.png)
 
 La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que los tramos mas densos, son los medios, la distribución parece ser una normal.
@@ -76,7 +75,7 @@ La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que
 
 ## CURVA DE LORENTZ
 
-<div><iframe src="//giphy.com/embed/DXzihcl9gQERa?html5=true" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/DXzihcl9gQERa">via GIPHY</a></p></div>
+![](https://media.giphy.com/media/DXzihcl9gQERa/giphy.gif)
 
 
 ![](imgs/lorentz_principales_2015-11-09_122758.png)
@@ -84,21 +83,22 @@ La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que
 
 # INDICE DE GINI
 
-
-                         Gini
-    ingresostrabajo  0.461160
-    c690             0.551929
-    c689             0.552380
-    c699             0.697796
-    c698             0.698056
-    c730             0.720683
-    c731             0.725347
-    c620             0.991811
+|VARIABLES|COEFICIENTE|
+|:-------------:|:----------:|
+|ingresostrabajo|0.461160|
+|c690|0.551929|
+|c689|0.552380|
+|c699|0.697796|
+|c698|0.698056|
+|c730|0.720683|
+|c731|0.725347|
+|c620|0.991811|
 
 ![](imgs/gini_2015-11-09_122758.png)
 
 
-IDEAS:
+# IDEAS:
+
 1. ¿Es el gasto público progresivo?
 1. Modelo de distribución de la renta, partiendo del ideal y ver su evolución.
 1. ¿Son los individuos racionales?
@@ -110,7 +110,7 @@ IDEAS:
 
 # NOTAS
 
-## EXTENSIONES DEL TRABAJO
+## POSIBLES EXTENSIONES DEL TRABAJO
 1. ¿Es el gasto público progresivo?
 1. Modelo de distribución de la renta, partiendo del ideal y ver su evolución.
 1. ¿Son los individuos racionales?
@@ -119,6 +119,7 @@ IDEAS:
      - PARA TODOS LOS SUPUESTOS
      - INTERVALO DE CONFIANZA
 1. TERNARY PLOT
+
 
 # BIBLIOGRAFÍA
 
@@ -140,8 +141,3 @@ IDEAS:
 - Silber, J. (2012b). Handbook of Income Inequality Measurement. (J. Silber, Ed.). Dordrecht: Springer Science & Business Media. http://doi.org/10.1007/978-94-011-4413-1
 - Stiglitz, J. E. (2003). La economía del sector público. Antoni Bosch editor.
 
-
-
-```python
-
-```
