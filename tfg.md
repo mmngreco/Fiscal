@@ -1,9 +1,9 @@
 
-![Imgur](http://i.imgur.com/eCb65SE.jpg)
+![](http://i.imgur.com/eCb65SE.jpg)
 
-# Trabajo Fin de Grado
+# TRABAJO FIN DE GRADO
 
-## ANÁLISIS REGIONAL DEL IPRF : DESIGUALDAD Y PROGRESIVIDAD REGIONAL PARA ESPAÑA
+## Análisis Regional Del IPRF : Desigualdad Y Progresividad Regional Para España
 
 
 ### Autor
@@ -21,8 +21,9 @@ Fernando Rodrigo Sauco
 Facultad de Ciencias Económicas y Empresariales
 Año 2015
 
-## NOTEBOOK
-[TFG](http://nbviewer.ipython.org/github/mmngreco/Fiscal/blob/master/tfg.ipynb)
+## NOTEBOOK CÁLCULOS
+
+[ENLACE](http://nbviewer.ipython.org/github/mmngreco/Fiscal/blob/master/tfg.ipynb)
 
 ## PREGUNTAS
 
@@ -58,30 +59,95 @@ Año 2015
     + Competencia Fiscal
 
 ---
+# MOTIVACIÓN
 
-# DISTRIBUCIÓN DE DECLARANTES POR CCAA
+La economía pública como disiplina tiene especial interés cuando se trata de corregir los fallos de mercado y promover el correcto funcionamiento de un país. Hoy en día el estado tiene la mayor parte de responsabilidad a la hora de fomentar el crecimietno de un país, gracias a la tendencia creciente en nuestro país en lo relativo a la difusión datos, parece el mejor final de una etapa, la correcta aplicación de los conocimientos adquiridos durante los años de formación en economía a fin de tocar la mayoría de áreas estudiadas.
+
+# METODOLOGÍA
+
+Datos panel IRPF IEF 2011
+Varianza estimada boostrap
+
+Software:
+
+Python
+- Librerías
+- SciPy
+- NumPy
+- seaborn
+- Pandas
+- Statsmodels
+
+R
+- reldist
+- ineq
+
+Desigualdad
+Curva de Lorentz
+Curva generalizada de Lorentz
+
+# DESCRIPCIÓN PARA ESPAÑA Y CCAA
+## DISTRIBUCIÓN DE DECLARANTES POR CCAA
+
+## CODIGOS \[CAMBIAR, INTRODUCIR EN LOS PROPIOS GRÁFICOS]
+### Comunidad Autónoma  
+
+1 = Andalucía
+2 = Aragón
+3 = Principado de Asturias
+4 = Illes Baleares
+5 = Canarias
+6 = Cantabria
+7 = Castilla-La Mancha
+8 = Castilla y León
+9 = Cataluña
+10 = Extremadura
+11 = Galicia
+12 = Comunidad de Madrid
+13 = Región de Murcia
+16 = La Rioja
+17 = Comunidad Valenciana
+18 = Ceuta
+19 = Melilla
+
+### Tramo de renta
+
+1 = Negativas y cero
+2 = De 0,01 a 3.000,00
+3 = De 3.000,01 a 6.000,00
+4 = De 6.000,01 a 12.000,00
+5 = De 12.000,01 a 18.000,00
+6 = De 18.000,01 a 30.000,00
+7 = De 30.000,01 a 60.000,00
+8 = De 60.000,01 a 120.000,00
+9 = De 120.000,01 a 240.000,00
+10 = De 240.000,01 en adelante
+
+El siguiente gráfico nos muestra la densidad de población sobre el total nacional, por tramos y comunidades autónomas. La población de declarantes en el IRPF, concentra la mayor parte de la población en las comunidades de Cataluña, Andalucía, y Madrid. Aragón se encuentra el noveno entre las comunidades que más declarantes concentran. 
 
 ![](imgs/dist_2015-11-09_122758.png)
 
-La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que los tramos mas densos, son los medios, la distribución parece ser una normal.
-
-
-# CURVA DE LORENTZ
-
-![](imgs/lorentz_ingresostrabajo_2015-11-09_122758.png)
-![](imgs/lorentz_c731_2015-11-09_122758.png)
-![](imgs/lorentz_c730_2015-11-09_122758.png)
-
+Por tramos, a simple vista vemos que se ajusta a una distribución normal, es decir, cocentra la mayor densidad en el centro, en este caso se corresponden con los tramos 6 y 7, que pertenecen a los intervalos de 18-30 mil y 30-60 mil respectivamente.
 
 ## CURVA DE LORENTZ
+
+Para conocer el grado de concentración de una variable es característico hacerlo median la curva de Lorentz, en las absisas se dibuja el porcentaje de población y en el eje de ordenadas el porcentaje de la variable monetaria de interés. El área entre la bisectriz y la curva de Lorentz es de especial interés ya que nos indica el indice de gini.[1]
+
+
+![](imgs/lorentz_ingresostrabajo_2015-11-09_122758.png)
+
+![](imgs/lorentz_c731_2015-11-09_122758.png)
+
+![](imgs/lorentz_c730_2015-11-09_122758.png)
+
+### CURVA DE LORENTZ
 
 ![](https://media.giphy.com/media/DXzihcl9gQERa/giphy.gif)
 
 
 ![](imgs/lorentz_principales_2015-11-09_122758.png)
 
-
-# INDICE DE GINI
+## INDICE DE GINI
 
 |VARIABLES|COEFICIENTE|
 |:-------------:|:----------:|
@@ -97,6 +163,12 @@ La ditribución de declarantes se concentra sobre todo en la CCAA (9), vemos que
 ![](imgs/gini_2015-11-09_122758.png)
 
 
+
+
+
+
+
+---
 # IDEAS:
 
 1. ¿Es el gasto público progresivo?
